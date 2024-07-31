@@ -13,6 +13,10 @@ My simple **Quiz** in OOP using Java. I am using **Maven** as the build system.
   
 - Questions can have a single answer or multiple answers.
 
+##
+
+### The quiz will follow:
+
 - At the start of the quiz, the first player chooses a name.
   
 - At the end of the first player's game, there will be a summary of their correct answers.
