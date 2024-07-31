@@ -1,4 +1,4 @@
-# Part 5 - QUIZ :question::grey_question:	
+# Part 5 - :grey_question: QUIZ :question:	
 My simple **Quiz** in OOP using Java. I am using **Maven** as the build system.
 
 ##
